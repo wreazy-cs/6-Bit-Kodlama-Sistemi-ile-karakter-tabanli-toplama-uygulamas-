@@ -24,7 +24,7 @@ Projeyi yerel makinenizde derlemek ve çalıştırmak için aşağıdaki adımla
 
 **1. Depoyu Klonlayın:**
 ```bash
-git clone [https://github.com/](https://github.com/)[KullaniciAdiniz]/6-Bit-Kodlama-Sistemi-ile-karakter-tabanli-toplama-uygulamas-.git
+git clone https://github.com/wreazy-cs/6-Bit-Kodlama-Sistemi-ile-karakter-tabanli-toplama-uygulamas-.git
 ```
 
 **2. Proje Dizinine Gidin:**
