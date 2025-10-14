@@ -1,0 +1,11 @@
+# Compiled files
+*.o
+a.out
+6-bit-toplama
+
+# VS Code editor settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
